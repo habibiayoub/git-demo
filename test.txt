@@ -1,1 +1,3 @@
-test local changes
+test local changes to be pushed
+
+test remote changes to be pulled
